@@ -17,7 +17,7 @@
 ### 我在哪呆过？
   - 中国人民大学    &ensp;&ensp;    统计学院    &ensp;&ensp;    统计学    &ensp;&ensp;    2024.9 -
   - 新加坡国立大学    &ensp;&ensp;    ISS    &ensp;&ensp;    BA    &ensp;&ensp;    2021.7 - 2022.7
-  - 厦门大学    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;    经济学院    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;     统计学 理学学士    &ensp;&ensp;&ensp;&ensp;    2017.9 - 2021.6
+  - 厦门大学    &ensp;&ensp;    经济学院    &ensp;&ensp;     统计学 理学学士    &ensp;&ensp;    2017.9 - 2021.6
 
 ### 怎么找到我？
 
