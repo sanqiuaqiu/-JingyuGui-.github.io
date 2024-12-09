@@ -1,6 +1,6 @@
 ### Welcome 👀
 
-这是一个i人的主页，请自助，如果自助不了的话也非常欢迎给我一封从天而降的来自陌生人的邮件🥳。
+这是一个i人的主页，请自助，如果自助不了的话，我也非常欢迎一封从天而降的来自陌生人的邮件🥳。
 
 -   :hammer_and_pick:
     ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=python)
